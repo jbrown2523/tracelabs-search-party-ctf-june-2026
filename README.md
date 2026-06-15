@@ -59,6 +59,8 @@ This structure helped me preserve context while moving between cases. It also fo
 
 Those are not the same thing.
 
+For a more detailed, case-neutral breakdown of the tools, validation methods, evidence workflow, and stop conditions I used, see the [Solo OSINT Field Guide](FIELD-GUIDE.md).
+
 ### 1. Establish the Baseline
 
 I began by recording the known identifiers, timeline, geography, and physical description supplied through the event. I also noted the official missing date and the boundaries of what was already known.
