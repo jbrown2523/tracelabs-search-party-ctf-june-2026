@@ -4,7 +4,7 @@
   <img src="assets/participant-badge.png" alt="Trace Labs CTF participant badge" width="300">
 </p>
 
-On June 6, 2026, I participated in a formal [Trace Labs](https://www.tracelabs.org/) Global OSINT Search Party CTF as the solo team **Cipher Stealth**.
+On June 6, 2026, I participated in a formal [Trace Labs](https://www.tracelabs.org/) Global OSINT Search Party CTF as the solo team **Cipher Stealth**. Participating against over 100 teams, this was a great experience to grow in the Cyber intelligence community. 
 
 Trace Labs Search Party CTFs are not conventional cybersecurity games. The cases involve real missing people, and the intelligence collected by participants may support real investigations. The competitive structure helps coordinate and motivate the work, but the score is not the mission. The purpose is to produce accurate, relevant, and responsibly collected open-source intelligence that may help.
 
